@@ -1,0 +1,12 @@
+{
+  "version": "2026-08-28",
+  "appVersion": "1.0.0",
+  "files": {
+    "data.js": "sha256:6a350de0fa34276b8b6c99297e2ea5237c7325892d86d552ff918c45be9242c1",
+    "metatft_pro_data.js": "sha256:f255de4816c46bbff6c00811ec22d96bbc1743e5db8f392ef0752166fd46aa4d",
+    "metatft_diffs.js": "sha256:485d5a31062651fb530df70ca79ce4078aef8e4a2805f7f169c25e16f4d04686",
+    "tooltip_data.js": "sha256:4758352d235c0488a25a9b223af9c5d9da7c2787ff917a9d74355c4a76e5573a",
+    "augment_tiers.js": "sha256:cc9b7b9f313ffe37d960696836a54ce3acd222b843b63923a81ce47c8d871b98",
+    "augment_cats.js": "sha256:bcfdf472e9a93028f8613c24b2fc0a1f6b9774f6cf3cd2de2e4e6b399a17321e"
+  }
+}
